@@ -1,10 +1,3 @@
-Note: Updated to AngularJS 0.10 branch
-===============================
-
-The documentation for the AngularJS 0.10 branch is at [http://docs-next.angularjs.org/](http://docs-next.angularjs.org/). The AngularJS changelog is at [https://github.com/angular/angular.js/blob/master/CHANGELOG.md](https://github.com/angular/angular.js/blob/master/CHANGELOG.md).
-
-There is currently an error with jQuery cycle in production. I'm trying to figure out what, in the asset pipeline, is causing the problem, but thus far without success.
-
 Angular.js in Rails
 ================
 
@@ -17,8 +10,8 @@ In order to remain accessible to a more general audience I have opted to use jav
 Installing
 ==========
 
-    $ git clone https://github.com/winner12263/rails-angular.git
-    $ cd angularjs_rails_demo
+    $ git clone https://github.com/nicolassavin18/Rails-Angular.git
+    $ cd ./Rails-Angular/angularjs-rails
     $ bundle install
     $ rake db:migrate db:seed db:test:prepare
 
