@@ -45,8 +45,8 @@ For testing purposes:
 ##Local installation
 1) Open Terminal
 
-	git clone git://github.com/sectore/CafeTownsend-Angular-Rails.git
-	cd CafeTownsend-Angular-Rails
+	git clone https://github.com/nicolassavin18/Rails-Angular.git
+	cd ./Rails-Angular/CafeTownsend-Angular-Rails
 	bundle install --without production
 	bower install
 	rake db:migrate
